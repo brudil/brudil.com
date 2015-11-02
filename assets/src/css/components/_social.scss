@@ -1,0 +1,22 @@
+.social {
+  font-size: 1.5rem;
+
+  @media screen and (min-width: 650px) {
+    max-width: 450px;
+  }
+
+  &__network {
+
+    &--twitter {
+
+    }
+
+    &--instagram {
+
+    }
+
+    &--github {
+
+    }
+  }
+}

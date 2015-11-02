@@ -1,1 +1,4 @@
 node_modules
+.sass-cache
+s3_website.yml
+assets/build
