@@ -13,11 +13,11 @@ export default class Index extends React.Component {
         />
         <div className="Welcome">
           <h1 className="Welcome__heading">
-            I'm James. @brudil elsewehere.
+            I'm James Canning. @brudil elsewehere.
           </h1>
           <p>Full-stack developer.</p>
-          <p>Studying Computer Science at the University of Sussex.</p>
-          <p>Web Developer at Sussex's Students' Union.</p>
+          <p>Website & Services at Sussex Students' Union.</p>
+          <p>Currently available for projects.</p>
         </div>
       </div>
     )
