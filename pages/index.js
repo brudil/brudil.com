@@ -15,9 +15,8 @@ export default class Index extends React.Component {
           <h1 className="Welcome__heading">
             I'm James Canning. @brudil elsewehere.
           </h1>
-          <p>Full-stack developer.</p>
-          <p>Website & Services at Sussex Students' Union.</p>
-          <p>Currently available for projects.</p>
+          <p>Full-stack engineer.</p>
+          <p>Head of Technology at Zeigo.</p>
         </div>
       </div>
     )
